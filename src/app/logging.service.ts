@@ -3,3 +3,4 @@ export class LoggingService {
     console.log('A server status changed, new status: ' + status);
   }
 }
+
